@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>放牛的程序员</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 21 Nov 2014 13:41:03 +0800</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2014 13:41:03 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>NSQ入门指南!</title>
+        <description>&lt;h2 id=&quot;nsq&quot;&gt;NSQ是什么&lt;/h2&gt;
+
+&lt;p&gt;NSQ是一套实时分布式消息系统，每天可处理数十亿的消息。它具有去中心化配置的拓朴结构，无单点故障，高可用等特点。&lt;/p&gt;
+
+&lt;h2 id=&quot;nsq-1&quot;&gt;NSQ使用&lt;/h2&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;nsqd&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 21 Nov 2014 20:23:38 +0800</pubDate>
+        <link>http://yourdomain.com/nsq/2014/11/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/nsq/2014/11/21/welcome-to-jekyll.html</guid>
+        
+        
+        <category>nsq</category>
+        
+      </item>
+    
+  </channel>
+</rss>
