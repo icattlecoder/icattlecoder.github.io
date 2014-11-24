@@ -4,10 +4,10 @@
     <title>放牛的程序员</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Nov 2014 13:41:03 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2014 13:41:03 +0800</lastBuildDate>
+    <link>http://icattlecoder.github.io/</link>
+    <atom:link href="http://icattlecoder.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Nov 2014 19:19:26 +0800</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2014 19:19:26 +0800</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -22,8 +22,8 @@
 
 </description>
         <pubDate>Fri, 21 Nov 2014 20:23:38 +0800</pubDate>
-        <link>http://yourdomain.com/nsq/2014/11/21/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/nsq/2014/11/21/welcome-to-jekyll.html</guid>
+        <link>http://icattlecoder.github.io/nsq/2014/11/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://icattlecoder.github.io/nsq/2014/11/21/welcome-to-jekyll.html</guid>
         
         
         <category>nsq</category>
