@@ -6,27 +6,18 @@
 </description>
     <link>http://icattlecoder.github.io/</link>
     <atom:link href="http://icattlecoder.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Nov 2014 19:19:26 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2014 19:19:26 +0800</lastBuildDate>
-    <generator>Jekyll v2.5.1</generator>
+    <pubDate>Thu, 23 Apr 2015 09:57:21 +0800</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2015 09:57:21 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>NSQ入门指南!</title>
-        <description>&lt;h2 id=&quot;nsq&quot;&gt;NSQ是什么&lt;/h2&gt;
-
-&lt;p&gt;NSQ是一套实时分布式消息系统，每天可处理数十亿的消息。它具有去中心化配置的拓朴结构，无单点故障，高可用等特点。&lt;/p&gt;
-
-&lt;h2 id=&quot;nsq-1&quot;&gt;NSQ使用&lt;/h2&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;nsqd&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
+        <title>Yet another Medium style editor for AngularJS</title>
+        <description>
 </description>
-        <pubDate>Fri, 21 Nov 2014 20:23:38 +0800</pubDate>
-        <link>http://icattlecoder.github.io/nsq/2014/11/21/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://icattlecoder.github.io/nsq/2014/11/21/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 22 Apr 2015 20:23:38 +0800</pubDate>
+        <link>http://icattlecoder.github.io/2015/04/22/ngMeditor.html</link>
+        <guid isPermaLink="true">http://icattlecoder.github.io/2015/04/22/ngMeditor.html</guid>
         
-        
-        <category>nsq</category>
         
       </item>
     
