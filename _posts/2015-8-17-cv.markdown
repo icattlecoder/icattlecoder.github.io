@@ -1,0 +1,28 @@
+---
+layout: default
+title:  "cv"
+date:   2015-4-22 12:23:38
+---
+个人简历
+===
+
+## 基本信息
+姓名：王明
+性别：男
+出生日期：1987/06/27
+学历：硕士研究生
+专业：计算机应用技术专业
+学校：上海海洋大学
+Email：icattlecoder@gmail.com
+手机： 15216701341
+
+## 工作经验
+2013/5 ~2015/8 ：七牛云存储基础研发部，主要负责服务高可用改造、千亿级冷数据库存储开发、反馈系统开发。
+
+## 技能栈
+1.  golang、.net、javascript、html+css、angularjs
+2.	 mongodb、mysql、nginx、memcached、git
+
+## 其它
+
+Github: https://github.com/icattlecoder
